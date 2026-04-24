@@ -1,4 +1,4 @@
-# MobileGear Hub 
+# MobileGear Hub
 
 > **DISCLAIMER:** This is a front-end project built purely for educational purposes.
 > It is **not a real store** — no products can actually be purchased, no transactions
@@ -39,4 +39,8 @@ Each product links directly to:
 - CSS3 (custom properties, glassmorphism, animations)
 - Vanilla JavaScript (ES6+)
 - Font Awesome 6 icons
-- Google Fonts (Orbitron + Inter
+- Google Fonts (Orbitron + Inter)
+
+## Disclaimer
+
+This is a front-end project built for educational purposes. It is not a real store — no transactions are processed.
