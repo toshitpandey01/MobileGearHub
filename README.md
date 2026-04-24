@@ -43,4 +43,4 @@ Each product links directly to:
 
 ## Disclaimer
 
-This is a front-end project built for educational purposes. It is not a real store — no transactions are processed.
+This is a front-end project built for educational purposes. It is not a real store,no transactions are processed.
