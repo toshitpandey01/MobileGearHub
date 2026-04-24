@@ -1,0 +1,25 @@
+Hero poster: hero-poster.png
+iPhone 16 Pro Max: 01-iphone-16-pro-max.jpg
+Samsung Galaxy S25 Ultra: 02-samsung-galaxy-s25-ultra.jpg
+OnePlus 13: 03-oneplus-13.png
+Realme GT 6: 04-realme-gt-6.jpg
+AirPods Pro 3: 05-airpods-pro-3.jpg
+Galaxy Buds3 Pro: 06-galaxy-buds3-pro.jpg
+Sony WF-1000XM5: 07-sony-wf-1000xm5.png
+Samsung Galaxy Watch Ultra: 08-samsung-galaxy-watch-ultra.jpg
+Apple Watch Series 10: 09-apple-watch-series-10.jpg
+Amazfit GTR 4: 10-amazfit-gtr-4.jpg
+iPad Air M3 (11-inch): 11-ipad-air-m3-11-inch.jpg
+Samsung Galaxy Tab S10: 12-samsung-galaxy-tab-s10.jpg
+MacBook Air M4 (15-inch): 13-macbook-air-m4-15-inch.jpg
+Dell XPS 15 (9530): 14-dell-xps-15-9530.jpg
+Anker 733 Power Bank (GaNPrime 65W): 15-anker-733-power-bank-ganprime-65w.jpg
+Anker PowerCore 20000 PD: 16-anker-powercore-20000-pd.jpg
+UGREEN Nexode 200W GaN: 17-ugreen-nexode-200w-gan.jpg
+UGREEN Nexode 45W USB-C Charger: 18-ugreen-nexode-45w-usb-c-charger.jpg
+Spigen Tough Armor iPhone 16 Pro Case: 19-spigen-tough-armor-iphone-16-pro-case.jpg
+Spigen Ultra Hybrid Clear Case: 20-spigen-ultra-hybrid-clear-case.jpg
+JBL Flip 6: 21-jbl-flip-6.jpg
+Sony SRS-XB33: 22-sony-srs-xb33.png
+Logitech G Pro X Superlight 2: 23-logitech-g-pro-x-superlight-2.jpg
+Razer BlackShark V2 X: 24-razer-blackshark-v2-x.jpg
